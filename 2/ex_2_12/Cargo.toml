@@ -1,0 +1,14 @@
+[package]
+name = "ex_2_12"
+version = "0.1.0"
+authors = ["royco"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+[dependencies.openssl]
+[dependencies.once_cell]
+[dependencies.rand]
+[dependencies.base64]
+[dependencies.cmp]
